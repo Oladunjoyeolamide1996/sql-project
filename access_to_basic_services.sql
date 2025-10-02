@@ -1,0 +1,9 @@
+SELECT
+Country_name,
+Time_period,
+Pct_managed_drinking_water_services,
+Pct_managed_sanitation_services,
+Est_gdp_in_billions,
+Region
+  FROM
+  united_nations.access_to_basic_services
